@@ -31,9 +31,12 @@ values ( 'blogadmin', '1234', 'admin@admin.com', 'ADMIN');
 - utf-8 필터 , .jsp 자원 직접 접근 금지 필터
 - JQuery , JSTL , ajax
 - MVC패턴
-<img src="MVC패턴그림.png">
+<img src="img/MVC패턴그림.png">
 
 
 ## 프로젝트 흐름도
-<img src="JSP-Blog-Test그림.png">
+<img src="img/JSP-Blog-Test그림.png">
+
+## 결과화면
+<img src="img/blogadmin.png">
 
