@@ -16,6 +16,11 @@ create table User(
     userRole varchar(20)
 );
 ```
+```
+insert into user(username, password, email, userRole) 
+values ( 'blogadmin', '1234', 'admin@admin.com', 'ADMIN');
+```
+
 ## 환경설정
 - JDK 1.8 , MySQL , Tomcat 9.0
 
