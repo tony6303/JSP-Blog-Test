@@ -1,6 +1,6 @@
 # JSP-Blog-Test
 
-##MySQL 사용자계정 생성 / 테이블 생성
+## MySQL 사용자계정 생성 / 테이블 생성
 ```
 create user 'blogtest'@'%' identified by 'bitc5600';
 GRANT ALL PRIVILEGES ON *.* TO 'blogtest'@'%';
