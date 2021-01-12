@@ -24,3 +24,4 @@ create table User(
 ## 사용한 자바기술
 - utf-8 필터 , .jsp 자원 직접 접근 금지 필터
 - MVC패턴
+<img src="MVC패턴그림.png">
