@@ -33,3 +33,7 @@ values ( 'blogadmin', '1234', 'admin@admin.com', 'ADMIN');
 - MVC패턴
 <img src="MVC패턴그림.png">
 
+
+## 프로젝트 흐름도
+<img src="JSP-Blog-Test그림.png">
+
