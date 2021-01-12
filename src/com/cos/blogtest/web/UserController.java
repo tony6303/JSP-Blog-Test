@@ -44,7 +44,6 @@ public class UserController extends HttpServlet {
 			RequestDispatcher dis = request.getRequestDispatcher("user/loginForm.jsp");
 			dis.forward(request, response);
 		}else if(cmd.equals("login")) { //로그인 완료
-			System.out.println("로그인호출");
 			String username = request.getParameter("username");
 			String password = request.getParameter("password");
 			LoginReqDto dto = new LoginReqDto();

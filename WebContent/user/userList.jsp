@@ -88,7 +88,7 @@ function deleteUser(id){
 			$("#row-"+id).remove();
 			location.reload();
 		} else {
-			alert("댓글삭제 실패");
+			alert("유저삭제 실패");
 		}
 	});
 }
